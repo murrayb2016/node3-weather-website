@@ -105,5 +105,5 @@ app.get('*', (req,res)=>{ //catch all for all 404
 }); 
 
 app.listen(3000, ()=>{
-    console.log('Server is up on port 3000.');
+   // console.log('Server is up on port 3000.');
 });
